@@ -1,15 +1,11 @@
-[![MasterHead](https://github.com/Charef-Sohail/Charef-Sohail/assets/131702341/7f75a6f3-3a88-47d9-b58f-9132eb1b1deb)](https://youtu.be/dQw4w9WgXcQ?si=60QfFGlQ1xA3ykRs)
-
-
-
 <h1 align="center">Hi 👋, I'm Sohail Charef</h1>
-<h3 align="center">Future Software Engineer</h3>
+<h3 align="center">Software Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/R.c895db405f490e3eda00969757c55e3d?rik=8dq47eQd%2fd35QQ&pid=ImgRaw&r=0">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Charef-Sohail&label=Profile%20views&color=0e75b6&style=flat" alt="Charef-Sohail" /> </p>
 
 <p align="left"> <a href="https://twitter.com/chsohy" target="blank"><img src="https://img.shields.io/twitter/follow/chsohy?logo=twitter&style=for-the-badge" alt="chsohy" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **JEE**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Charef-Sohail?tab=repositories](https://github.com/Charef-Sohail?tab=repositories)
 
