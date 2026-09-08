@@ -58,13 +58,13 @@
 
 <br>
 
-<!-- Styled GitHub Stats -->
+<!-- Cache Busted GitHub Stats -->
 <h3 align="center">📊 GitHub Stats</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Charef-Sohail&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="Charef-Sohail Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Charef-Sohail&show_icons=true&locale=en&theme=tokyonight&hide_border=true&v=1" alt="Charef-Sohail Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Charef-Sohail&theme=tokyonight&hide_border=true" alt="Charef-Sohail Streak" />
 </div>
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Charef-Sohail&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Charef-Sohail Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Charef-Sohail&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&v=1" alt="Charef-Sohail Top Langs" />
 </div>
