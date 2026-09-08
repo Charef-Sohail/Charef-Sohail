@@ -58,12 +58,14 @@
 
 <br>
 
-<!-- Gamified GitHub Trophies -->
-<h3 align="center">🏆 GitHub Trophies</h3>
+<!-- 3D Contribution Graph -->
+<h3 align="center">🌆 3D Contribution Calendar</h3>
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Charef-Sohail&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true&column=7" alt="Charef-Sohail Trophies" />
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-view.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-season-animate.svg">
+    <img alt="3D GitHub Contribution Calendar" src="./profile-3d-contrib/profile-night-view.svg">
+  </picture>
 </div>
 
 <br>
