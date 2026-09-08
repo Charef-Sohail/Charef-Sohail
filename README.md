@@ -58,13 +58,22 @@
 
 <br>
 
-<!-- Cache Busted GitHub Stats -->
-<h3 align="center">📊 GitHub Stats</h3>
+<!-- Gamified GitHub Trophies -->
+<h3 align="center">🏆 GitHub Trophies</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Charef-Sohail&show_icons=true&locale=en&theme=tokyonight&hide_border=true&v=1" alt="Charef-Sohail Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Charef-Sohail&theme=tokyonight&hide_border=true" alt="Charef-Sohail Streak" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Charef-Sohail&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true&column=7" alt="Charef-Sohail Trophies" />
+  </a>
 </div>
+
 <br>
+
+<!-- Contribution Snake Animation -->
+<h3 align="center">🐍 Contribution Activity</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Charef-Sohail&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&v=1" alt="Charef-Sohail Top Langs" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Charef-Sohail/Charef-Sohail/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Charef-Sohail/Charef-Sohail/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Charef-Sohail/Charef-Sohail/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
